@@ -1,5 +1,5 @@
 {
-  "name": "CypherX",
+  "name": "COLD😒💔",
   "description": "CypherX, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "Must begin with 'XPLOADER-BOT:~' or 'COLD😒💔:~'.",
     "value": "",
     "required": false
   }
